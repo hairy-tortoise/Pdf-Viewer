@@ -1,7 +1,7 @@
 <h1 align="center">Pdf Viewer For Android</h1>
 
 <p align="center">
-A Simple PDF Viewer library which only occupies around <b>125kb</b> while most of the Pdf viewer occupies upto <b>16MB</b> space.
+A Simple PDF Viewer library which only occupies around <b>125kb</b> while most of the Pdf viewer occupie upto <b>16MB</b> space.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/afreakyelf/Pdf-Viewer/master/Screenshot_2020-07-11-23-59-31-606_com.rajat.pdfviewer.jpg" width="420" height="840" />
