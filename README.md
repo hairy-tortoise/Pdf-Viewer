@@ -13,9 +13,9 @@ A Simple PDF Viewer library which only occupies around <b>125kb</b> while most o
 
 
 ## How to integrate into your app?
-Integrating the project is simple, All you need to do is follow the below steps
+Integrating the project is simple. All you need to do is follow the below steps:
 
-Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
+Step 1. Add the JitPack repository to your build file and in your root build.gradle at the end of repositories:
 
 ```java
 allprojects {
